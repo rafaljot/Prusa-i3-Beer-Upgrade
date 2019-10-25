@@ -6,22 +6,22 @@ The project is inspired by @gregsun and his great work https://github.com/gregsa
 The Beer Upgrade does the same but cheaper, like four beers and looks even more cool.
 
 ## BOM:
-20x40 extrusions
-331mm - 2 pcs
-370mm - 3 pcs
-319mm - 2 pcs
+20x40 extrusions:<br>
+331mm - 2 pcs<br>
+370mm - 3 pcs<br>
+319mm - 2 pcs<br>
+<br>
+Bolts:<br>
+M5 x 20mm - ISO7380 - 50 pcs <br>
+M4 x 16mm - DIN 7991 ISO 10642 - 50 pcs<br>
 
-Bolts:
-M5 x 20mm - ISO7380 - 50 pcs 
-M4 x 16mm - DIN 7991 ISO 10642 - 50 pcs
-
-M5 threaded rod:
-350mm - 2 pcs
-340mm - 2 pcs
-M5 nuts - 8 pcs
-M5 pads - 8 pcs
-
-Tools:
-M4 tap
-M5 tap
-cordless screwdriver
+M5 threaded rod:<br>
+350mm - 2 pcs<br>
+340mm - 2 pcs<br>
+M5 nuts - 8 pcs<br>
+M5 pads - 8 pcs<br>
+<br>
+Tools:<br>
+M4 tap<br>
+M5 tap<br>
+cordless screwdriver<br>
