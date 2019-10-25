@@ -15,11 +15,13 @@ Bolts:<br>
 M5 x 20mm - ISO7380 - 50 pcs <br>
 M4 x 16mm - DIN 7991 ISO 10642 - 50 pcs<br>
 
+M5 nuts - 8 pcs<br>
+M5 washers - 8 pcs<br>
+
 M5 threaded rod:<br>
 350mm - 2 pcs<br>
 340mm - 2 pcs<br>
-M5 nuts - 8 pcs<br>
-M5 pads - 8 pcs<br>
+
 <br>
 Tools:<br>
 M4 tap<br>
